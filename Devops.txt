@@ -1,0 +1,6 @@
+Git
+Jenkins
+K8
+Docker
+Ansible
+AWS
